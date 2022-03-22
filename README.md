@@ -1,8 +1,8 @@
 # GA
 
-Genetic Algorithm Final Project
-STAT 243, Fall 2021
-UC Berkeley
+Genetic Algorithm Final Project  
+STAT 243, Fall 2021  
+UC Berkeley  
 Group Members: Jonathan Ling, Natalia Sarabia Vasquez, Hans Bak Nielsen
 
 Create a package in R to implement a genetic algorithm used for variable selection in regression analysis.
